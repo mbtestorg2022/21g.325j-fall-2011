@@ -13,20 +13,190 @@ Apart from doing the weekly [readings]({{< baseurl >}}/pages/readings), students
 *   **Stylistic composition and essay:** Students will write a 3 page short story with four different characters, whose sex, sexual orientation, and gender are different. The rule is to write without using any mark of grammatical gender. The students will additionally attach a 2-page essay explaining who the characters are and how they managed to make them identifiable as men, women, gays, lesbians, transsexuals, bisexuals, transgenders, queers, etc.
   
 
-| SES # | TOPICS | Assignments |
-| --- | --- | --- |
-| 1 | Qu'ouïr ? | Oral presentation topic choice due |
-| {{< td-colspan 3 >}}**1re Partie : "Bizarre, vous avez dit bizarre ?"  {{< br >}}**{{< /td-colspan >}} |||
-| 2 | La race maudite | Question : Qu'est-ce que différencie les hétérosexuels des homosexuels ? |
-| 3 | Avoir mauvais genre | Question : Croyez-vous au "gaydar" ? |
-| 4 | Paranoïa et authenticité | &nbsp; |
-| {{< td-colspan 3 >}}**2e Partie : Queeriser**{{< /td-colspan >}} |||
-| 5 | Les amitiés particulières | Question : Conseilleriez-vous a un/e ami/e homosexuel/le de sortir du placard ? |
-| 6 | Les hétérotopies | &nbsp; |
-| 7 | Drôle de familles ! | &nbsp; |
-| {{< td-colspan 3 >}}**3e Partie : Que faire avec le queer ?**{{< /td-colspan >}} |||
-| 8 | Homosexualité et révolution | Question : L'homosexualité peut-elle changer la société et pourquoi ? |
-| 9 | La lutte contre les discriminations et la conjugalité | Question : Développez des argument en faveur de la suppression du mariage. |
-| 10 | La maladie de la mort | &nbsp; |
-| 11 | Homonationalisme ? |  {{< br >}}{{< br >}} Stylistic composition and essay due {{< br >}}{{< br >}} Question : Comment expliquez-vous que certain/es homosexuel/les soient d'extrême-droite ? {{< br >}}{{< br >}}  |
-| 12 | Bilan du semestre : tirer la langue ! |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Assignments
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Qu'ouïr ?
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentation topic choice due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1re Partie : "Bizarre, vous avez dit bizarre ?"  
+**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+La race maudite
+{{< tdclose >}}
+{{< tdopen >}}
+Question : Qu'est-ce que différencie les hétérosexuels des homosexuels ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Avoir mauvais genre
+{{< tdclose >}}
+{{< tdopen >}}
+Question : Croyez-vous au "gaydar" ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Paranoïa et authenticité
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2e Partie : Queeriser**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Les amitiés particulières
+{{< tdclose >}}
+{{< tdopen >}}
+Question : Conseilleriez-vous a un/e ami/e homosexuel/le de sortir du placard ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Les hétérotopies
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Drôle de familles !
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**3e Partie : Que faire avec le queer ?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Homosexualité et révolution
+{{< tdclose >}}
+{{< tdopen >}}
+Question : L'homosexualité peut-elle changer la société et pourquoi ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+La lutte contre les discriminations et la conjugalité
+{{< tdclose >}}
+{{< tdopen >}}
+Question : Développez des argument en faveur de la suppression du mariage.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+La maladie de la mort
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Homonationalisme ?
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stylistic composition and essay due
+
+Question : Comment expliquez-vous que certain/es homosexuel/les soient d'extrême-droite ?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Bilan du semestre : tirer la langue !
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
